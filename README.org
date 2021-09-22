@@ -1,0 +1,59 @@
+* Programação Funcional
+
+  Lista de vídeos para a disciplina: https://www.youtube.com/playlist?list=PLRDuHd2Ia_bt2iFyeOYttbswIwbQNbMSM
+  Link para notas de aula: https://github.com/luiz-classrooms/pf-lecture-notes
+
+** Cronograma
+
+   | Data             | Aula | Descrição                                     | Status   |
+   |------------------+------+-----------------------------------------------+----------|
+   | [2021-09-29 Wed] |    1 | Apresentação da disciplina                    | Síncrona |
+   | [2021-10-01 Fri] |    2 | Listas - definições e funções                 | Gravada  |
+   | [2021-10-02 sáb] |    3 | Listas - funções                              | Gravada  |
+   | [2021-10-06 Wed] |    4 | Live                                          | Síncrona |
+   | [2021-10-08 Fri] |    5 | Abstrações de Loops                           | Gravada  |
+   | [2021-10-13 Wed] |    6 | Live                                          | Síncrona |
+   | [2021-10-15 Fri] |      | Feriado - Dia do Professor                    |          |
+   | [2021-10-20 Wed] |    7 | Live                                          | Síncrona |
+   | [2021-10-22 Fri] |    8 | Tipos para o Tratamento de Erros              | Gravada  |
+   | [2021-10-27 Wed] |    9 | Live                                          | Síncrona |
+   | [2021-10-29 Fri] |   10 | Valores Disjuntivos                           | Gravada  |
+   | [2021-11-03 Wed] |   11 | Live                                          | Síncrona |
+   | [2021-11-05 Fri] |   12 | Árvores Binárias de Busca                     | Gravada  |
+   | [2021-11-10 Wed] |   13 | Live                                          | Síncrona |
+   | [2021-11-12 Fri] |   14 | Representação Eficiente de Sequências         | Gravada  |
+   | [2021-11-17 Wed] |   15 | Live                                          | Síncrona |
+   | [2021-11-19 Fri] |   16 | Implementação Funcional de Grafos             | Gravada  |
+   | [2021-11-24 Wed] |   17 | Live                                          | Síncrona |
+   | [2021-11-26 Fri] |   18 | Flias de Prioridade                           | Gravada  |
+   | [2021-12-01 Wed] |      | Encontros Universitários                      |          |
+   | [2021-12-03 Fri] |      | Encontros Universitários                      |          |
+   | [2021-12-08 Wed] |   19 | Live                                          | Síncrona |
+   | [2021-12-10 Fri] |   20 | Functor, Applicative e Alternative            | Gravada  |
+   | [2021-12-15 Wed] |   21 | Live                                          | Síncrona |
+   | [2021-12-17 Fri] |   22 | Functor, Applicative e Alternative            | Gravada  |
+   | [2021-12-22 Wed] |   23 | Live                                          | Síncrona |
+   | [2021-12-24 Fri] |      | Recesso                                       |          |
+   | [2021-12-29 Wed] |      | Recesso                                       |          |
+   | [2021-12-31 Fri] |      | Recesso                                       |          |
+   | [2022-01-05 Wed] |      | Recesso                                       |          |
+   | [2022-01-07 Fri] |      | Recesso                                       |          |
+   | [2022-01-12 Wed] |   24 | Live                                          | Síncrona |
+   | [2022-01-14 Fri] |   25 | Operador de Ponto Fixo e Programação Dinâmica | Gravada  |
+   | [2022-01-19 Wed] |   26 | Live                                          | Síncrona |
+   | [2022-01-21 Fri] |   27 | Operador de Ponto Fixo e Programação Dinâmica | Gravada  |
+   | [2022-01-26 Wed] |   28 | Live                                          | Síncrona |
+   | [2022-01-28 Fri] |   29 | Mônadas                                       | Gravada  |
+   | [2022-02-02 Wed] |   30 | Live                                          | Síncrona |
+   | [2022-02-04 Fri] |   31 | Avaliação Estrita e Paralelismo               | Gracada  |
+   | [2022-02-09 Wed] |   32 | Live                                          | Síncrona |
+
+** Entregas
+
+   | Prazo            | Descrição   |
+   |------------------+-------------|
+   | [2021-11-05 Fri] | Aulas 2-10  |
+   | [2021-12-08 Wed] | Aulas 12-18 |
+   | [2022-01-12 Wed] | Aulas 20-22 |
+   | [2022-02-09 Wed] | Aulas 25-31 |
+
